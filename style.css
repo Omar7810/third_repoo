@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(7, 177, 177);
+}
+nav {
+  text-align: center;
+  background-color: aqua;
+  font-size: x-large;
+  font-family: Verdana;
+}
+header {
+  text-align: center;
+  font-family: Georgia;
+  font-size: xx-large;
+}
+h1 {
+  font-family: Calibri;
+  color: rgb(15, 14, 14);
+  text-align: center;
+}
+ul {
+  font-size: xx-large;
+  font-family: sans-serif;
+}
+img {
+  width: 320;
+  padding: 10px;
+  margin: 100px;
+  border: 50px;
+  border: 20px solid rgb(0, 0, 0);
+}
+h2 {
+  font-size: xx-large;
+  font-family: Times New Roman;
+}
+p {
+  font-size: larger;
+  font-family: Geneva;
+}
+ol {
+  font-size: x-large;
+  font-family: Gill Sans;
+}
+h3 {
+  font-size: x-large;
+  font-family: Lucida Grande;
+}
